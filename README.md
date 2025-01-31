@@ -1,0 +1,1 @@
+After spending 6hours of reading and watching videos, I progressed my way through approx. 6 hours of HTML learning, and trouble shooting. To challenge myself I began a YoutubeClone project to better my skills, understanding, UI Design skills, and overall performance with HTML and CSS coding. Coding Project Duration approx. 2 weeks, total hours(12 ish). 
